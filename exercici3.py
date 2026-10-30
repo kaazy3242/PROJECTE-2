@@ -1,0 +1,5 @@
+print(" EXERCI 3")
+p1 = input("Introdueix la primera paraula: ")
+p2 = input("Introdueix la segona paraula: ")
+p3 = input("Introdueix la tercera paraula: ")
+print(f"Frase resultant: {p1} {p2} {p3}\n")
