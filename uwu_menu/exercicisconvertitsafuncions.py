@@ -17,7 +17,7 @@ def operacions_basiques():
     else:
         print("Divisió: No es pot dividir per zero\n") 
 
-def frase_tres_paraules():
+def frase_tres_paraules(): 
     print("\n Exercici 3: Frase amb 3 paraules")
     p1 = input("Introdueix la primera paraula: ")
     p2 = input("Introdueix la segona paraula: ")
@@ -77,7 +77,7 @@ def cercar_nota_deu():
         nota = float(input("Introdueix una nota (0-10) o -1 per acabar: "))
     
     if te_deu:
-        print("Hi ha hagut alguna nota que té un 10\n")
+        print("Hi ha alguna nota que té un 10\n")
     else:
         print("No hi ha cap 10\n")
 
