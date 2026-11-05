@@ -7,18 +7,13 @@
 ## Resum del projecte
 
 
-# Projecte 2 - Exercicis python
+##  Estructura del Repositori
 
-Aquest projecte recull una col·lecció d'exercicis de programació en Python organitzats tant en fitxers individuals com en un mòdul principal interactiu dividit en funcions.
-
----
-
-## Estructura del Repositori
-
+```text
 projecte2/
 ├── uwu_menu/
 │   ├── menu.py                        # Menú principal interactiu
-│   └── exercicisconvertitsafuncions.py # 10 exercicis convertits a funcions
+│   └── exercicisconvertitsafuncions.py # 10 funcions dels exercicis
 ├── exercici1.py                     
 ├── exercici1tasca3.py
 ├── exercici1tasca4.py
@@ -30,4 +25,5 @@ projecte2/
 ├── exercici3tasca4.py
 ├── exercici4.py
 ├── tasca1.py
-└── README.md                          # Documentació del projecte
+└── README.md                          
+```
