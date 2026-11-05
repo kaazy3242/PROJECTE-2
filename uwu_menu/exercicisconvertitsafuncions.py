@@ -15,7 +15,7 @@ def operacions_basiques():
     if num2 != 0:
         print(f"Divisió: {num1 / num2}\n")
     else:
-        print("Divisió: No es pot dividir per zero\n")
+        print("Divisió: No es pot dividir per zero\n") 
 
 def frase_tres_paraules():
     print("\n Exercici 3: Frase amb 3 paraules")
