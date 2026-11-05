@@ -1,10 +1,8 @@
 
-from exercicisconvertitsafuncions import *
+from uwu_import.exercicisconvertitsafuncions import *
 
 def mostrar_menu():
-    print("==========================================")
-    print("          MENÚ PRINCIPAL D'EXERCICIS      ")
-    print("==========================================")
+    print("           MENÚ PRINCIPAL D'EXERCICIS"          )
     print(" 1. Càlcul de l'àrea d'un quadrat")
     print(" 2. Operacions bàsiques amb dos enters")
     print(" 3. Frase amb 3 paraules")
@@ -16,7 +14,7 @@ def mostrar_menu():
     print(" 9. Comprovar si hi ha alguna nota igual a 10")
     print("10. Comprovar si hi ha nombres negatius")
     print(" S. Sortir del programa")
-    print("==========================================")
+    
 
 def main():
     while True:
@@ -44,7 +42,7 @@ def main():
         elif opcio == "10":
             cercar_nombres_negatius()
         elif opcio == "S":
-            print("\nHas sortit del programa. Fins aviat!")
+            print("\nHas sortit del programa.")
             break
         else:
             print("\n[ERROR] Opció no vàlida. Torna a intentar-ho.\n")
