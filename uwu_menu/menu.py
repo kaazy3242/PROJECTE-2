@@ -1,4 +1,4 @@
-from uwu_menu.exercicisconvertitsafuncions import *
+from exercicisconvertitsafuncions import *
 
 def mostrar_menu():
     print("           MENÚ PRINCIPAL D'EXERCICIS"          )
