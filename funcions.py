@@ -61,7 +61,7 @@ def mostrar_menu():
     """Mostra per pantalla les opcions del menú del servei tècnic."""
     print("\n===== SERVEI TÈCNIC INFORMÀTIC =====")
     print("1. Introduir una nova reparació")
-    print("2. Consultar el nom de reparacions")
+    print("2. Consultar el  numero de reparacions")
     print("3. Consultar la facturació acumulada")
     print("4. Sortir")
 
@@ -120,7 +120,7 @@ def executar_programa():
             print("\nSortint del programa")
             break
         else:
-            print("\nOpció no vàlida. Si us plau, tria una opció entre 1 i 4.")
+            print("\nOpció no vàlida, tria una opció entre 1 i 4.")
 
 if __name__ == "__main__":
     executar_programa()
