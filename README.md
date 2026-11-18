@@ -11,22 +11,23 @@
 
 ```text
 projecte2/
-├── uwu_menu/   #Menú de tot els exercicis per a triar 
-│   ├── menu.py                       
-│   └── exercicisconvertitsafuncions.py 
-├── funcions.py                        
-├── exercici1.py                       
-├── exercici1tasca3.py
-├── exercici1tasca4.py
-├── exercici2.py
-├── exercici2tasca3.py
-├── exercici2tasca4.py
-├── exercici3.py
-├── exercici3tasca3.py
-├── exercici3tasca4.py
-├── exercici4.py
-├── tasca1.py
-└── README.md                         
+├── uwu_menu/                           # Carpeta del Menú
+│   ├── menu.py                         # Controlador principal del menú interactiu
+│   └── exercicisconvertitsafuncions.py # 10 exercicis convertits en funcions
+├── funcions.py                         # Activitat pràctica: Gestió d'un servei tècnic informàtic
+├── exercici1.py                        # Càlcul de l'àrea d'un quadrat
+├── exercici1tasca3.py                  # Comprovació de majoria d'edat (if / else)
+├── exercici1tasca4.py                  # Nombres parells de l'1 al 200 (bucle for)
+├── exercici2.py                        # Operacions matemàtiques bàsiques (+, -, *, /)
+├── exercici2tasca3.py                  # Cerca del nombre més gran de tres valors
+├── exercici2tasca4.py                  # Cerca d'una nota 10 en una seqüència (bucle while)
+├── exercici3.py                        # Creació d'una frase unint tres paraules
+├── exercici3tasca3.py                  # Comprovació de nombre positiu o negatiu
+├── exercici3tasca4.py                  # Detecció de nombres negatius entre 10 números
+├── exercici4.py                        # Suma de decimals i conversió a enter (casting)
+├── tasca1.py                           # Primers passos: variables i sortida per pantalla
+└── README.md                           # Documentació general del projecte
+                    
 ```
 
  # EXERCICI 5. Reflexió final
